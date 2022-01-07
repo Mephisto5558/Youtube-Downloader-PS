@@ -1,4 +1,4 @@
-'$CurrentLanguage = ''en''' = '$CurrentLanguage = ''de''' 
+'$CurrentLanguage = ''en' = '$CurrentLanguage = ''de' 
 'Loading...' = 'Laden...'
 'worst' = 'schlechteste'
 'best' = 'beste'
